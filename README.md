@@ -24,7 +24,7 @@ This project aims to develop an ETL (Extract, Transform, Load) pipeline to analy
   - This is the initial setup step. Instructions can be found in the installation steps section.
 - **Create a dbt pipeline for the business use case discussed in this [Project](https://github.com/hxu47/dbt-code).**
   - Run the data transformations required for the analysis.
-  - ### Business Use Cases
+  - Business Use Cases include:
     - In terms of content, which movies/series dominate the market?
     - Who are the top actors and directors dominating specific genres?
     - Percentage share of movies/series on Netflix's platform.
