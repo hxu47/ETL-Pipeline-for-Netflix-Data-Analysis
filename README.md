@@ -3,6 +3,8 @@
 ## Description
 This project aims to develop an ETL (Extract, Transform, Load) pipeline to analyze content distribution trends on Netflix. The pipeline is built on AWS, using DBT for data transformation, Snowflake as the data warehouse, and Airflow for orchestration. The insights are visualized using AWS Quicksight, and alert mechanisms are integrated for monitoring pipeline failures.
 
+![Netflix Data Visualization](https://github.com/hxu47/airflow-code/blob/main/image.png)
+
 ## Business Use Cases
 - In terms of content, which movies/series dominate the market?
 - Who are the top actors and directors dominating specific genres?
